@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 
+# GitHub Actions (add manually on GitHub due to permission restrictions)
+.github/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
